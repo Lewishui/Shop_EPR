@@ -1,0 +1,4 @@
+C:\mysteap\work_office\ProjectOut\莆田\Shop_EPR\Shop.DB\bin\Debug\Shop.DB.dll
+C:\mysteap\work_office\ProjectOut\莆田\Shop_EPR\Shop.DB\bin\Debug\Shop.DB.pdb
+C:\mysteap\work_office\ProjectOut\莆田\Shop_EPR\Shop.DB\obj\Debug\Shop.DB.dll
+C:\mysteap\work_office\ProjectOut\莆田\Shop_EPR\Shop.DB\obj\Debug\Shop.DB.pdb

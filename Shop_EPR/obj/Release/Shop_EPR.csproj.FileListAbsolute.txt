@@ -1,0 +1,2 @@
+C:\mysteap\work_office\ProjectOut\莆田\Shop_EPR\Shop_EPR\obj\Release\Interop.SHDocVw.dll
+C:\mysteap\work_office\ProjectOut\莆田\Shop_EPR\Shop_EPR\obj\Release\Shop_EPR.csproj.ResolveComReference.cache
